@@ -19,4 +19,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
+### ✨ Inspiring Quote
 
+> "The best way to predict the future is to create it." — **Peter Drucker**
